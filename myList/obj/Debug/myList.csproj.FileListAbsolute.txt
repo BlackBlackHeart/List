@@ -1,0 +1,6 @@
+D:\soft\CSharpProjects\myList\myList\bin\Debug\myList.exe.config
+D:\soft\CSharpProjects\myList\myList\obj\Debug\myList.csprojResolveAssemblyReference.cache
+D:\soft\CSharpProjects\myList\myList\bin\Debug\myList.exe
+D:\soft\CSharpProjects\myList\myList\bin\Debug\myList.pdb
+D:\soft\CSharpProjects\myList\myList\obj\Debug\myList.exe
+D:\soft\CSharpProjects\myList\myList\obj\Debug\myList.pdb
